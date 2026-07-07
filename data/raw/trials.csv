@@ -1,0 +1,5 @@
+trial_id,phase,therapeutic_area,sponsor,study_drug,indication,start_date,planned_end_date,trial_status,target_enrollment
+CT-ONC-001,Phase 2,Oncology,NovaCure Pharma,Drug A,Breast Cancer,2025-01-15,2026-06-30,Active,300
+CT-CARD-002,Phase 3,Cardiology,MediCore Labs,Drug B,Heart Failure,2025-03-01,2026-12-15,Active,500
+CT-DIAB-003,Phase 2,Endocrinology,HealthGen Bio,Drug C,Type 2 Diabetes,2024-11-20,2026-04-30,Active,250
+CT-NEUR-004,Phase 1,Neurology,NeuroNova,Drug D,Migraine,2025-06-10,2026-08-31,Recruiting,120

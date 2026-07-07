@@ -1,0 +1,21 @@
+site_id,trial_id,site_name,country,country_code,principal_investigator,activation_date,site_status
+SITE-001,CT-ONC-001,Hospital 1,India,IND,Investigator 1,2025-01-07,Pending
+SITE-002,CT-ONC-001,Hospital 2,United States,USA,Investigator 2,2025-02-27,Activated
+SITE-003,CT-ONC-001,Hospital 3,India,IND,Investigator 3,2025-06-23,Activated
+SITE-004,CT-ONC-001,Hospital 4,Canada,CAN,Investigator 4,2025-04-19,Activated
+SITE-005,CT-ONC-001,Hospital 5,India,IND,Investigator 5,2025-01-24,Activated
+SITE-006,CT-CARD-002,Hospital 6,United States,USA,Investigator 6,2025-05-10,Activated
+SITE-007,CT-CARD-002,Hospital 7,Canada,CAN,Investigator 7,2025-02-20,Closed
+SITE-008,CT-CARD-002,Hospital 8,United States,USA,Investigator 8,2025-04-25,Pending
+SITE-009,CT-CARD-002,Hospital 9,India,IND,Investigator 9,2025-02-10,Closed
+SITE-010,CT-CARD-002,Hospital 10,United Kingdom,GBR,Investigator 10,2025-03-13,Activated
+SITE-011,CT-DIAB-003,Hospital 11,United States,USA,Investigator 11,2025-03-28,Activated
+SITE-012,CT-DIAB-003,Hospital 12,India,IND,Investigator 12,2025-04-08,Activated
+SITE-013,CT-DIAB-003,Hospital 13,United Kingdom,GBR,Investigator 13,2025-03-30,Pending
+SITE-014,CT-DIAB-003,Hospital 14,India,IND,Investigator 14,2025-04-28,Activated
+SITE-015,CT-DIAB-003,Hospital 15,Germany,DEU,Investigator 15,2025-01-21,Pending
+SITE-016,CT-NEUR-004,Hospital 16,Canada,CAN,Investigator 16,2025-04-03,Activated
+SITE-017,CT-NEUR-004,Hospital 17,India,IND,Investigator 17,2025-01-12,Activated
+SITE-018,CT-NEUR-004,Hospital 18,United Kingdom,GBR,Investigator 18,2025-01-21,Activated
+SITE-019,CT-NEUR-004,Hospital 19,India,IND,Investigator 19,2025-04-08,Pending
+SITE-020,CT-NEUR-004,Hospital 20,Germany,DEU,Investigator 20,2025-06-12,Pending

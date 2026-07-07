@@ -1,0 +1,12 @@
+code_type,code_value,code_description
+AE_SEVERITY,Mild,Mild adverse event
+AE_SEVERITY,Moderate,Moderate adverse event
+AE_SEVERITY,Severe,Severe adverse event
+VISIT_STATUS,Completed,Visit completed
+VISIT_STATUS,Missed,Visit missed
+TRIAL_PHASE,Phase 1,First-in-human / safety
+TRIAL_PHASE,Phase 2,Efficacy and safety
+TRIAL_PHASE,Phase 3,Large-scale confirmatory
+RISK_LEVEL,Low,0-30 risk score
+RISK_LEVEL,Medium,31-60 risk score
+RISK_LEVEL,High,61-100 risk score

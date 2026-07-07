@@ -1,0 +1,12 @@
+2026-06-10 14:17:25.330882 | Question: show me risk scores | SQL File: trial_risk_score.sql | Status: SUCCESS
+2026-06-11 12:34:26.987743 | Question: show me risk scores | SQL File: trial_risk_score.sql | Status: SUCCESS
+2026-06-11 12:35:10.823572 | Question: show me risk scores | SQL File: trial_risk_score.sql | Status: SUCCESS
+2026-06-11 13:27:41.747105 | Question: show me risk scores | SQL File: trial_risk_score.sql | Status: SUCCESS
+2026-06-11 14:28:11.330763 | Question: What is ur name?/ | SQL File: None | Status: FAILED
+2026-06-11 14:28:29.294471 | Question: Patients by trial alone | SQL File: None | Status: FAILED
+2026-06-11 14:28:34.331166 | Question: Patients by trial alone | SQL File: None | Status: FAILED
+2026-06-11 14:29:16.577617 | Question: explain patients by trial | SQL File: None | Status: FAILED
+2026-06-11 14:29:34.673907 | Question: patients by trial | SQL File: None | Status: FAILED
+2026-06-11 14:29:37.434491 | Question: patients by trial | SQL File: None | Status: FAILED
+2026-06-11 14:29:53.474882 | Question: patientsid | SQL File: None | Status: FAILED
+2026-06-11 14:30:20.163412 | Question: how many patients are there? | SQL File: None | Status: FAILED

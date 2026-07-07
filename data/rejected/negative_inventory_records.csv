@@ -1,0 +1,2 @@
+inventory_id,trial_id,site_id,drug_name,batch_number,quantity_available,expiry_date,inventory_snapshot_date
+INV999999,CT-ONC-001,SITE-001,Drug A,BATCH-BAD,-10,2026-02-01,2026-01-15
